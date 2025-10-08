@@ -1,0 +1,19 @@
+{
+  "news": [
+    {
+      "title": "Добро пожаловать!",
+      "date": "25.07.2024",
+      "content": "Мы запустили наш менеджер!"
+    }
+  ],
+  "mods": [
+    {
+      "id": "redux_bright_v1",
+      "name": "Bright Day Redux v1.0",
+      "description": "Яркий и сочный редукс.",
+      "url": "ССЫЛКА_НА_ВАШ_ZIP_АРХИВ_БУДЕТ_ЗДЕСЬ",
+      "details": "- Заменены текстуры неба\n- Улучшены отражения",
+      "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  ]
+}
