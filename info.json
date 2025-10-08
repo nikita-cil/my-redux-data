@@ -8,10 +8,17 @@
   ],
   "mods": [
     {
-      "id": "redux_bright_v1",
+      "id": "MAD.x.CRUEL.RDX.RP",
       "name": "Bright Day Redux v1.0",
-      "description": "Яркий и сочный редукс.",
-      "url": "ССЫЛКА_НА_ВАШ_ZIP_АРХИВ_БУДЕТ_ЗДЕСЬ",
+      "description": "▶️Красные хп, серая броня
+▶️Векторная карта
+▶️индивидуальные тайм циклы
+▶️приятные трейсера 
+▶️новые звуки оружий 
+▶️переделанная арена 
+▶️прицел (нужно в настройках поставить сложный тип)
+И многое другое✅",
+      "url": "https://github.com/nikita-cil/my-redux-data/releases/download/v1.0.0-mods/MAD.x.CRUEL.RDX.RP.VERSION.zip",
       "details": "- Заменены текстуры неба\n- Улучшены отражения",
       "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
